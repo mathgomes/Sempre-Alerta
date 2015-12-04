@@ -7,8 +7,9 @@
         android:id="@+id/imgLogo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
-        android:src="@drawable/cam1" />
+        android:src="@drawable/cam1"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
 
     <TextView
         android:layout_width="fill_parent"

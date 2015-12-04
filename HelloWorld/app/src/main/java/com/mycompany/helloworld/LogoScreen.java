@@ -13,7 +13,7 @@ public class LogoScreen extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.content_logo_screen);
+        setContentView(R.layout.activity_logo_screen);
 
         new Handler().postDelayed(new Runnable() {
 
